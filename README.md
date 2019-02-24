@@ -17,7 +17,7 @@ For example you can use simulation camera image topic to
 use DSO in your gazebo simulation.
 
 I was just testing to see if I can make it work with ROS2 so the
-library is not polished. You have to need calibration folder with
+library is not polished. You need calibration folder with
 calibration.txt pcalib.txt vignette.png and you need to run the commands
 in the folder that contains calibration folder.
 
