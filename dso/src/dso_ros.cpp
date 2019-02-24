@@ -22,7 +22,6 @@
 std::string calib = "./calibration/camera.txt";
 std::string vignetteFile = "./calibration/resized_vignette.png";
 std::string gammaFile = "./calibration/pcalib.txt";
-std::string saveFile = "/home/goktug/workspace/";
 
 using namespace dso;
 
