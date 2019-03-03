@@ -4,7 +4,7 @@
 * [DSO SLAM library](https://github.com/JakobEngel/dso) Change CMakeFile, path of the DSO Library.
 * OpenCV
 
-# Instalation
+# Installation
   * Clone repository to your workspace source folder `git clone https://github.com/goktug97/dso_ros2`
   *  Run `colcon build` in workspace root.
   *  Source your workspace
