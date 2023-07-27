@@ -1,5 +1,7 @@
 # ROS2 Wrapper for DSO SLAM Library
 
+> :warning: **NOT MAINTAINED**: https://github.com/goktug97/dso_ros2/issues/2
+
 # Dependencies
 * [DSO SLAM library](https://github.com/JakobEngel/dso) Change CMakeFile, path of the DSO Library.
 * OpenCV
